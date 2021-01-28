@@ -1,0 +1,5 @@
+mongodb+srv://<username>:<password>@cluster0.ed03k.mongodb.net/<dbname>?retryWrites=true&w=majority
+Username=eurico
+password=fQKOu0gCsCwanAVv
+host=cluster0.ed03k.mongodb.net
+dbname=IGTI_MOD4
